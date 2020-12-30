@@ -4,34 +4,34 @@
 All the projects made in CS50 by Harvard University
 
 ## Problem Set 1
-Credit
-Mario
+### Credit
+### Mario
 
 ## Problem Set 2
 ### Readability
 ### Substitution
 
 ## Problem Set 3
-Plurality
-Runoff
+### Plurality
+### Runoff
 
 ## Problem Set 4
-Filter
-Recover
+### Filter
+### Recover
 
 ## Problem Set 5
-Speller
+### Speller
 
 ## Problem Set 6
-DNA
+### DNA
 
 ## Problem Set 7
-Houses 
-Movies
+### Houses 
+### Movies
 
 ## Problem Set 8
-Mario Game
-Pong Game
+### Mario Game
+### Pong Game
 
 ## Final Project
-Snake Game
+### Snake Game
