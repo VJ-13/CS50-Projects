@@ -4,12 +4,12 @@
 All the projects made in CS50 by Harvard University
 
 ## Problem Set 1
-### Credit
-### Mario
+  Credit
+  Mario
 
 ## Problem Set 2
-### Readability
-### Substitution
+  Readability
+  Substitution
 
 ## Problem Set 3
 ### Plurality
