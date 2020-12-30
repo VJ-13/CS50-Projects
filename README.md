@@ -8,8 +8,8 @@ Credit
 Mario
 
 ## Problem Set 2
-Readability
-Substitution
+### Readability
+### Substitution
 
 ## Problem Set 3
 Plurality
